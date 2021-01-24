@@ -1,5 +1,5 @@
 <h1 align="center"> 👋, I'm Kevin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend Developer | Cloud Infrastracture  and DevOps </h3>
 - 🔭 I’m currently working on **CI/CD tooling for technical teams to be able to build and deploy using pipelines**
 
 - 🌱 I’m currently learning **Jenkins and Kubernetes**
