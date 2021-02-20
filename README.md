@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **DevOps and Open Source Projects**
 
-- 💬 Ask me about **Amazon Web Services**
+- 💬 Ask me about **(AWS)Amazon Web Services**
 
 - 📫 How to reach me **kevinwaithaka@outlook.com**
 
