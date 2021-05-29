@@ -4,6 +4,8 @@
 
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kev6070&count_private=true)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kev6070&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
