@@ -1,10 +1,9 @@
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kev6070&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kev6070&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kev6070&langs_count=8theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kev6070&count_private=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kev6070&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
